@@ -30,36 +30,36 @@ To access work list use localhost:3000/work path
 Follow these steps to set up and run the TODO list application locally:
 
 1. Clone the repository
-    
+    ```bash
     git clone https://github.com/apk471/todo-list.git
     
 
 2. Navigate to the project directory:
 
-   
+   ```bash
     cd todo-list
-    
+    ```
 
 3. Install dependencies:
 
-    
+    ```bash
     npm install
-    
+    ```
 
 4. Set up MongoDB:
    - Ensure MongoDB is installed and running locally or provide a MongoDB URI in the configuration.
 
 5. Run the application:
 
-    
+    ```bash
     npm start
-  
+    ```
 
 6. Access the application in your web browser:
 
-    
+    ```bash
     http://localhost:3000
-    
+    ```
 
 ## Configuration
 
