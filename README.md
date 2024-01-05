@@ -2,6 +2,13 @@
 
 This repository contains a simple TODO list application built using Node.js, HTML, CSS, JavaScript, and MongoDB. The application allows users to manage tasks by adding, updating, deleting, and marking them as completed.
 
+<img width="1707" alt="image" src="https://github.com/apk471/ToDoList-Complete/assets/123052360/f94b4b86-d9ce-463e-9321-bf0ed6515f23">
+
+To access work list use localhost:3000/work path
+
+<img width="1710" alt="image" src="https://github.com/apk471/ToDoList-Complete/assets/123052360/be9a93f2-90ba-4807-a785-3b3a0aed83ad">
+
+
 ## Features
 
 - **Add Tasks:** Users can add new tasks to the TODO list.
